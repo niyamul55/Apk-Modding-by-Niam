@@ -1,0 +1,10 @@
+{
+  "credit": "MR. NoOB",
+  "show_dialog": false,
+  "title": "🚀 Update Available",
+  "subtitle": "✨ New Version Release ✨",
+  "whatsnew": "• Improved app performance\n• Fixed major bugs\n• Enhanced security layers\n• Polished UI with smooth animations ",
+  "btn_update": "Update Now",
+  "btn_exit": "Exit",
+  "link": "your_app_update_new_version"
+    }
